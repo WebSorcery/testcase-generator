@@ -181,18 +181,6 @@ export default function Home() {
             </Link>
           </div>
         </nav>
-        {/* <div className={styles.description}>
-          <p>An Open Source Comprehensive Test Case Generator</p>
-          <div className={styles.author}>
-            <a
-              href="https://www.linkedin.com/in/ank1traj/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              By Ankit Raj
-            </a>
-          </div>
-        </div> */}
         <Center/>
 
 
