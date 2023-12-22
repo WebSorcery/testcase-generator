@@ -77,7 +77,7 @@ const Center = () => {
                 <span className="text-pink-400">Event</span>
                 <span className="text-slate-500">&gt;</span>
                 <span className="relative inline-block px-1 before:absolute before:-inset-0.5 before:block before:rounded before:bg-blue-500/10">
-                  <span className="relative text-blue-400">Codepeak'23</span>
+                  <span className="relative text-blue-400">Codepeak 2023</span>
                 </span>
                 <span className="text-slate-500">&lt;/</span>
                 <span className="text-pink-400">Event</span>
@@ -145,7 +145,7 @@ const Center = () => {
                 <span className="ml-2 text-violet-400">
                   className<span className="text-slate-500">=</span>
                   <span className="relative inline-block px-1 before:absolute before:-inset-0.5 before:block before:rounded before:bg-blue-500/10">
-                    <span className="relative text-blue-400">"mt-3"</span>
+                    <span className="relative text-blue-400">mt-3</span>
                   </span>
                 </span>
                 <span className="text-slate-500">/&gt;</span>
