@@ -5,7 +5,7 @@ import { Inter } from "next/font/google";
 import { Roboto } from "next/font/google";
 import styles from "@/styles/Home.module.css";
 import Link from "next/link";
-
+import Center from "./Center";
 import MenuIcon from "@mui/icons-material/Menu";
 import CheckCircleIcon from "@mui/icons-material/CheckCircle";
 import HourglassEmptyIcon from "@mui/icons-material/HourglassEmpty";
@@ -181,18 +181,9 @@ export default function Home() {
             </Link>
           </div>
         </nav>
-        <div className={styles.description}>
-          <p>An Open Source Comprehensive Test Case Generator</p>
-          <div className={styles.author}>
-            <a
-              href="https://www.linkedin.com/in/ank1traj/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              By Ankit Raj
-            </a>
-          </div>
-        </div>
+        <Center/>
+
+
         <div className={styles.center}>
           <div className={styles.thirteen}>
             <Image
